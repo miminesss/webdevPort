@@ -1,0 +1,36 @@
+body{
+	background: url(bg1.jpg) no-repeat center fixed;
+	background-color: white;
+	font-family: 'PT Serif', serif;
+	text-align: center;	
+}
+
+h1{
+	color: White;
+	font-size: 50px;
+	font-style: bold;
+	font-weight: normal;
+	margin-bottom: 0;
+}
+
+h2{
+	color: White;
+	font-size: 18px;
+	font-style: italic;
+	margin-top: 0;
+
+}
+
+.bio{
+	color: White;
+	font-size: 16px;
+
+}
+
+.me{
+	height: 200px;
+	border-radius: 100%;
+	border-style: solid;
+	border-color: black;
+	margin-top: 10px;
+}
